@@ -1,7 +1,7 @@
 ---
 
 # 📚 Smart Study Planner  
-### Full Stack Web Application — Frontend Phase (Day 3 Complete)
+### Full Stack Web Application — Frontend Phase
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
@@ -31,7 +31,7 @@ This repository currently represents **Phase 1 — Frontend Foundation**.
 
 ---
 
-## 🎯 Current Phase: Frontend API Integration (Completed till Day 3)
+## 🎯 Current Phase: Frontend API Integration
 
 In this phase, the focus is on building a **strong frontend foundation** that can later connect seamlessly to a backend.
 
